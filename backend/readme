@@ -1,0 +1,4 @@
+
+//cloudinary use for uploading images:
+//redis for storing jon we tokens in order to return it as cookies.
+//upstash use for storing the web site and deploy on net.
